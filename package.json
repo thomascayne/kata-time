@@ -17,10 +17,12 @@
     "@babel/preset-env": "7.4.5",
     "@babel/preset-typescript": "7.3.3",
     "@types/jest": "24.0.13",
+    "acorn": ">=5.7.4",
     "babel-jest": "24.8.0",
     "handlebars": ">=4.3.0",
     "jest": "24.8.0",
     "lodash": ">=4.17.12",
+    "minimist": ">=1.2.2",
     "rxjs": "6.5.2",
     "typescript": "3.5.1"
   },
