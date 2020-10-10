@@ -21,7 +21,7 @@
     "babel-jest": "25.2.4",
     "handlebars": ">=4.7.3",
     "jest": "25.2.4",
-    "lodash": ">=4.17.15",
+    "lodash": ">=4.17.19",
     "minimist": ">=1.2.5",
     "rxjs": "6.5.4",
     "typescript": "3.8.3"
